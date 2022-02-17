@@ -10,7 +10,8 @@ class test {
 
 
         System.out.println("Welcome");
-        sfgdsfgsdf
+
+        System.out.println("Welcome");
 
     }
 }
